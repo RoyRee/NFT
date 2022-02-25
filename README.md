@@ -21,3 +21,7 @@ Then we have deployed the ERC721 smart contract to ropsten network.
 Now using this smart contract you can mint the NFT's on the click of Button
 
 ########################################################
+
+You can use deploy.js to deploy the smart contract over different networks
+If you want to Name the smart contract different then you can change it in deploy.js
+####################################################
